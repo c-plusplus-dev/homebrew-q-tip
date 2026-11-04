@@ -1,9 +1,9 @@
 class QTip < Formula
   desc "A simple C++ graphics framework"
   homepage "https://github.com/c-plusplus-dev/Q-Tip"
-  url "https://github.com/c-plusplus-dev/Q-Tip/archive/refs/tags/v0.1.7.tar.gz"
+  url "https://github.com/c-plusplus-dev/Q-Tip/archive/refs/tags/v0.2.0.tar.gz"
   head "https://github.com/c-plusplus-dev/Q-Tip.git", branch: "main"
-  sha256 "b7c631ed094f3e20f97250a67f0702acf7554fd738a6f1ff6263639a91a1122f"
+  sha256 "e488c23c61fab46746dd7ca4b1defcb9a778c8bfa5aa72561e50fca109482035"
   license "MIT"
 
   depends_on "cmake"
